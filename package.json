@@ -1,5 +1,5 @@
 {
-  "name": "@skycodee/baileys",
+  "name": "@whofik/baileys",
   "version": "8.0.8",
   "description": "Websocket Whatsapp API for Node.js",
   "keywords": [
@@ -12,13 +12,13 @@
     "proto",
     "whatsapp-websocket"
   ],
-  "homepage": "https://github.com/skycodee/Baileys",
+  "homepage": "https://github.com/whofik/baileys-sawit",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/skycodee/Baileys.git"
+    "url": "git+ssh://git@github.com/whofik/baileys-sawit.git"
   },
   "license": "MIT",
-  "author": "skycodee",
+  "author": "whofik",
   "main": "./lib/index.js",
   "files": [
     "lib/*",
@@ -98,6 +98,6 @@
     "lib": "lib"
   },
   "bugs": {
-    "url": "https://github.com/skycodee/Baileys/issues"
+    "url": "https://github.com/whofik/baileys-sawit/issues"
   }
 }

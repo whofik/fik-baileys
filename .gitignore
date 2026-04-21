@@ -1,0 +1,13 @@
+# Folder log dari sistem
+logs/
+*.log
+
+# File backup/cadangan yang ada di folder lib/
+*.bak
+
+# Dependency
+node_modules/
+
+# File OS
+.DS_Store
+Thumbs.db
